@@ -5,7 +5,7 @@ This repository contains a collection of hands-on, inquiry-based learning activi
 Read our [paper](a4ne_paper.pdf) published in the _[SIGCOMM Education Workshop 2026: Networking Education for the AI Generation (A4NE)](https://a4ne-workshop.github.io/index.html)_ to learn more about our motivation for developing these activities and our experiences using them in undergraduate courses.
 
 ## Activities
-* [Encoding Unplugged](encoding.md)
+* [Encoding Unplugged](encoding/encoding.md)
 <!--* [Multiplexing Unplugged](multiplexing.md)
 * [Addressing Unplugged](addressing.md)
 * [Intra-domain Routing Unplugged](routing.md)-->
