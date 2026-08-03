@@ -21,7 +21,7 @@ Within each group, form 3 pairs (or more if the group is larger). One person in 
 
 ![](multiplexing_diagram.png)
 
-The only way people can communicate is using sound! Come up with a scheme that allows every pair to successfully ask their question and respond.
+The only way people can communicate is using sound! Come up with a scheme that allows every pair to successfully ask their question and respond. Try it and note the advantages/disadvantages of this approach.
 
 ## Students complete the activity
 💡 **Tip:** Students often don't consider the possibility that two people may start talking at the same time. The facilitator can force students to consider this scenario by loudly talking over a student as soon as they start asking a question.
