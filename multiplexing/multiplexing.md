@@ -1,4 +1,4 @@
-# Encoding Unplugged
+# Multiplexing Unplugged
 
 This activity focuses on the problem of multiple senders and receivers communicating over the same cable or free space. Through this activity, students "discover" a variety of multiplexing and access control techniques for wired and wireless networks.
 
