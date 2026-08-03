@@ -24,6 +24,8 @@ Each group should complete [this worksheet](encoding_worksheet.md) during the ac
 
 💡 **Tip:** For a shorter activity, exclude questions 7 and/or 8-12 from the worksheet.
 
+While students are completing the activity, they typically discover the importance of agreeing on: (1) which manipluation represents a zero versus a one, and (2) how long the rope should be manipulated for each bit so the receiver doesn't interpret a sequence of two of the same bit as a single bit.
+
 ## Discuss students' ideas and observations
 Ask groups to share their ideas and observations with the class. 
 
