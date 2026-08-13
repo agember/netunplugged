@@ -6,7 +6,7 @@ This activity focuses on the problem of transmitting bits of information from on
 
 **Group size:** 2+ students
 
-**Materials required:** ~3 piece of rope for each group
+**Materials required:** ~3 meter piece of rope for each group; [worksheet](encoding_worksheet.md) for each group
 
 **Student background knowledge:** Before completing this activity, students should know that information is represented using bits and transmitted over cables or free space using electricity, light, or radio waves; [this video](https://www.youtube.com/watch?v=ZhEf7e4kopM) provides a good introduction to these topics.
 
@@ -20,7 +20,7 @@ Each group will receive a piece of rope, which represents an electromagnetic wav
 💡 **Tip:** Keeping the rope on the floor will make it easier to "transmit" and "recieve" the desired sequence. 
 
 ## Students complete the activity
-Each group should complete [this worksheet](encoding_worksheet.md) during the activity.
+Each group should complete [the worksheet](encoding_worksheet.md) during the activity.
 
 💡 **Tip:** For a shorter activity, exclude questions 7 and/or 8-12 from the worksheet.
 
