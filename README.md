@@ -8,4 +8,4 @@ Read our [paper](a4ne_paper.pdf) published in the _[SIGCOMM Education Workshop 2
 * [Encoding Unplugged](encoding/encoding.md)
 * [Multiplexing Unplugged](multiplexing/multiplexing.md)
 * [Addressing Unplugged](addressing/addressing.md)
-<!--* [Intra-domain Routing Unplugged](routing/routing.md)-->
+* [Intra-domain Routing Unplugged](intra-domain_routing/intra-domain_routing.md)
