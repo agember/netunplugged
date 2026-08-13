@@ -41,6 +41,7 @@ Students must use pieces of paper to:
 * Forward a packet to another router
 * Share the ids of their neighboring routers or the contents of packets they have received
 * Share information they learned from neighboring routers
+
 Students may only pass pieces of paper to their neighboring routers.
 
 ## Students complete the activity
