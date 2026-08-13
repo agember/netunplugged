@@ -44,6 +44,8 @@ Now complete the following steps:
 
 4. Discuss (with your voices) whether your approach worked. If not, what went wrong? How would you change your behavior? If time allows, try your modified approach.
 
+---
+
 <div style="page-break-after: always;"></div>
 
 # Router 2
@@ -91,6 +93,8 @@ Now complete the following steps:
     **The packet and all other information must be sent via pieces of paper.** You should only use your voice to clarify the instructions and how you should behave. The destination router should verbally announce when they receive the packet.
 
 4. Discuss (with your voices) whether your approach worked. If not, what went wrong? How would you change your behavior? If time allows, try your modified approach.
+
+---
 
 <div style="page-break-after: always;"></div>
 
@@ -140,6 +144,8 @@ Now complete the following steps:
 
 4. Discuss (with your voices) whether your approach worked. If not, what went wrong? How would you change your behavior? If time allows, try your modified approach.
 
+---
+
 <div style="page-break-after: always;"></div>
 
 # Router 4
@@ -188,6 +194,8 @@ Now complete the following steps:
 
 4. Discuss (with your voices) whether your approach worked. If not, what went wrong? How would you change your behavior? If time allows, try your modified approach.
 
+---
+
 <div style="page-break-after: always;"></div>
 
 # Router 5
@@ -235,6 +243,8 @@ Now complete the following steps:
     **The packet and all other information must be sent via pieces of paper.** You should only use your voice to clarify the instructions and how you should behave. The destination router should verbally announce when they receive the packet.
 
 4. Discuss (with your voices) whether your approach worked. If not, what went wrong? How would you change your behavior? If time allows, try your modified approach.
+
+---
 
 <div style="page-break-after: always;"></div>
 
